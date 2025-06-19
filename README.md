@@ -1,5 +1,4 @@
 # Flask Boilerplate
-___
 
 ### Create `.env` from `env.sample`
 
